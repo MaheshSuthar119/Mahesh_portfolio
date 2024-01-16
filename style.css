@@ -65,8 +65,9 @@ main hr{
 }
 
 .rightSection img{
-    width: 80%;
+    width: 70%;
     margin: 50px 0;
+    height: 35vh;
 }
 
 .purple{
